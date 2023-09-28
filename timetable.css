@@ -1,0 +1,40 @@
+/* body{
+    background: linear-gradient(-130deg, #ffccff 20%, #88ed88);
+} */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    background: linear-gradient(-130deg, #ffccff 20%, #88ed88);
+    background-size: 100% 100%; /* Ensure the gradient covers the entire body */
+}
+h1
+{
+ color:black;
+}
+p{
+ font-size: 20px;
+ margin-left: 5px;
+}
+a{
+text-decoration: none;
+font-size: 25px;
+color:red;
+}
+a:hover
+{
+ text-decoration: underline;
+ color:rgb(65, 7, 114);
+}
+#new
+{
+ font-size: 25px;
+ margin-left: 5px;
+ color:rgb(45, 8, 78);
+}

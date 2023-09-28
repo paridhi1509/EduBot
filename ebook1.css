@@ -1,0 +1,53 @@
+html, body {
+    font-family: Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background: linear-gradient(-160deg, #ffccff 20%, #88ed88);
+    background-image: url('WhatsApp-Image-2023-09-28-at-12.50.11-AM.jpg');
+}
+
+
+header {
+    /* background-color: #007BFF; */
+    color: white;
+    background-image: linear-gradient(-60deg,#a265b6 20%,#632f7e);
+    text-align: center;
+    padding: 20px;
+    
+}
+
+h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.container {
+    max-width: 800px;
+    max-height: 2000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(50, 9, 104, 0.1);
+    /* background-image: url('WhatsApp-Image-2023-09-27-at-11.38.25-PM-_1_.jpg'); */
+}
+
+.resource {
+    margin: 10px 0;
+}
+
+.resource a {
+    text-decoration: none;
+    color: #8c2ee4;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+.resource a:hover {
+    color: #320472;
+}
