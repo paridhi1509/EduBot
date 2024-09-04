@@ -25,9 +25,3 @@ Demo at: https://edubott.netlify.app/
    - Access a wide range of eBooks related to various subjects.
    - Direct links to free eBooks and external libraries.
    - Search for eBooks by title, author, or subject.
-
-## Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/edubot.git
